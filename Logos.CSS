@@ -1,0 +1,180 @@
+header {
+			width: 100%; 
+			/*margin-left: 10%; */
+			height: 100px;
+			border: 1px solid black;
+			margin: 1em;
+		}
+		main {
+			width: 100%; 
+			/*margin-left: 10%; */
+			height: 600px;
+			/*border:2px solid black;*/
+			margin bottom: 1em; 
+			
+		}
+		body { /*ES EL CUERPO DE MI PAGINA*/
+			margin: 10px;
+		} 
+		.Primero{
+			width: 100%;
+			height:220px;
+			/*border:2px solid black;*/
+			/*margin: 1em;*/
+			
+			
+		}
+		#Izquierda {
+			width: 50%; 
+			height: 219px;
+			border: 1px solid black;
+			float: left;
+			margin-left: 10px;
+		}
+		.Logo {
+			border: 1px solid black;
+			width: 30%; 
+			height:50px;
+			float: left;
+			margin-top: 20px;
+			margin-left: 20px;
+			padding-top: 10px;
+			padding-left: 40px;
+		}
+		
+		.Login {
+			border: 1px solid black;
+			width: 60%;
+			height: 50px;
+			float: right;
+			margin-top: 20px;
+			margin-right: 60px;
+			padding-top: 10px;
+			
+		}
+		.Imagen {
+			width: 45%;
+			height:215px;
+			background-image: url(PLAYA.jpg); /*ESTO ES PARA QUE LA IMAGEN SE ME PONGA COMO IMAGEN DE FONDO */
+			background-repeat: no-repeat;
+			background-size: cover;
+			float: left;
+		}
+		.Texto {
+			width: 50%;
+			height: 219px;
+			/*border: 1px solid black;*/
+			float: right;
+			text-align: justify;
+			text-align: center;
+			padding-right: 25px;
+		}
+		h1 {
+			margin-left: 20px;
+
+		}
+		#Derecha {
+			width: 49%; 
+			height: 220px;
+			/*border: 1px solid orange;*/
+			float: right;
+		}
+		
+		.Lorem {
+			width: 100%; 
+			height: 50px;
+			border: 1px solid black;
+			margin-left: 10px;
+			text-align: justify; 
+			text-align: center;
+			padding-top: 3px;
+
+		}
+		.Mapa {
+			width: 100%;
+			height: 180px;
+			/*border: 1px solid black;*/
+			float: right;
+		}
+		.Mapa {
+			width: 45%;
+			height:200px;
+			/*background-image: url(MAPA.jpg);*/
+			/*background-repeat: no-repeat; ESTA ETIQUETA ES PARA QUE NO SE REPITA LA IMAGEN*/
+			/*background-size: cover; ESTA ETIQUETA ES PARA AGRANDAR LA IMAGEN Y ME OCUPE EL TOTAL DEL ESPACIO*/
+			float: right;
+		}
+		.Segundo{
+			width: 100%;
+			height:200px;
+			border:2px solid black;
+			margin: 1em; 
+		}
+		.Caja1 {
+			width: 50%;
+			height: 200px;
+			/*border: 1px solid black;*/
+			float: left;
+		} 
+		/*.Caja1 {
+			width: 45%;
+			height:200px;*/
+			/*background-image: url(PAISAJE.jpg);*/
+			/*background-repeat: no-repeat;
+			background-size: cover;*/
+			/*float: left;
+			padding-left: 30px;
+			
+		}*/
+		.Caja2 {
+			width: 50%;
+			height: 200px;
+			/*border: 1px solid black;*/
+			float: right;
+		}
+		.Caja2 {
+			width: 50%;
+			height: 200px;
+			/*border: 1px solid green;*/
+			padding-right: 65px;
+			/*padding-top: 5px;*/
+			text-align: justify;
+			text-align: center;
+		}
+		
+		.Tercero{
+			width: 100%;
+			height:150px;
+			border:1px solid black;
+			margin: 1em;
+			
+		}
+		.Caja3 {
+			width: 50%;
+			height: 149px;
+			/*border: 1px solid black;*/
+			float: left;
+			text-align: center;
+			padding-top: 25px;
+		}
+		.Caja4 {
+			width: 50%;
+			height: 149px;
+			border: 1px solid black;
+			float: right;
+		}
+		footer {
+			border: 1px solid black;
+			width: 100%;
+			height: 80px;
+			margin: 1em;
+		}
+		a { /*SON LOS LINKS*/
+			margin-left: 15px;
+			line-height: 30px;
+		}
+		button {
+			width: 100px;
+			float: right;
+			height: 100%;
+		}
